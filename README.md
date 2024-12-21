@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masteraamie
-- 👀 I’m interested in Backend and Full Stack Development Roles
-- 🌱 I’m currently learning ReactJS and Golang
+- Working on creating solutions that impact the world.
+- 🌱 I’m currently learning Laravel Livewire and Next.JS
 - 📫 You can reach me at aamiramindar@gmail.com
 
 <!---
