@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @masteraamie
 - 👀 I’m interested in Backend and Full Stack Development Roles
 - 🌱 I’m currently learning ReactJS and Golang
-- 💞️ I’m looking to for jobs in Europe, Dubai and Canada
 - 📫 You can reach me at aamiramindar@gmail.com
 
 <!---
