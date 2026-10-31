@@ -13,12 +13,26 @@
 
 ### 🏢 [ShuhulKul Technologies](https://shuhulkultechnologies.in)
 
-These are products and sites I build under **ShuhulKul Technologies Private Limited**, a software and website development company in Srinagar, Kashmir.
+These are products and sites I build under **ShuhulKul Technologies Private Limited**, a software, website, and digital marketing company in Srinagar, Kashmir.
 
-- **[HotelBooks](https://hotelbooks.in)**: a multi-tenant hotel booking and operations platform (PMS) for independent hotels. It has reception and front-desk booking management, a guest booking portal for hotels in Kashmir, subdomains for each hotel, and channel-manager integration through **Channex**. It's built with Next.js 16, React 19, Prisma, and PostgreSQL. More on the product: [pms.hotelbooks.in](https://pms.hotelbooks.in)
-- **[ShuhulKul Technologies website](https://shuhulkultechnologies.in)**: the company site, rebuilt from PHP to Next.js App Router, TypeScript, and Framer Motion, with a blog and admin.
-- **[Master Techies](https://mastertechies.in)**: an AI-first engineering services brand and a unit of ShuhulKul Technologies, offering AI automation, web and mobile apps, cloud and DevOps, and API integrations.
-- **[RepairMyDevice](https://repairmydevice.in)**: a device repair booking service in Srinagar, operated by ShuhulKul Technologies.
+#### Products
+
+| Product | What it is |
+|---|---|
+| **[HotelBooks](https://hotelbooks.in)** | Cloud hotel PMS for independent hotels, with a reception board, guest folios, rooms and rates, travel-agent commissions, OTA channel sync through **Channex**, and an optional guest booking site on each hotel's subdomain. Built with Next.js 16, React 19, Prisma, and PostgreSQL. More at [pms.hotelbooks.in](https://pms.hotelbooks.in). |
+| **[TripQuote CRM](https://shuhulkultechnologies.in/tripquote-crm)** | Multi-tenant CRM for travel agencies covering leads, quotes, itineraries, bookings, and finance. Live at [tripquote.in](https://tripquote.in). |
+| **[RepairMyDevice](https://repairmydevice.in)** | Device repair booking in Srinagar. Customers choose a device, model, and repair, and the admin team prices the catalogue and assigns jobs to partner repair shops. |
+| **[Master Techies](https://mastertechies.in)** | ShuhulKul's AI-first engineering unit, offering AI automation, web and mobile apps, cloud and DevOps, and API integrations. |
+| **[ShuhulKul Technologies website](https://shuhulkultechnologies.in)** | The company site, rebuilt from PHP to Next.js App Router, TypeScript, and Framer Motion, with a blog and admin. |
+
+#### Client websites
+
+| Site | What it is |
+|---|---|
+| **[D2 Holidays](https://d2holidays.com)** | Kashmir tour and travel agency site with tour packages, taxi services, and a blog |
+| **[Travel Etios Kashmir](https://traveletioskashmir.com)** | Kashmir tour packages and taxi site with a blog |
+| **[FrostAir HVAC](https://frostair.tech)** | HVAC and climate control solutions company in Saudi Arabia and the Middle East |
+| **[Honor Co-Create](https://honorcocreate.com)** | HVAC duct manufacturing and industrial fabrication company |
 
 ### 🧩 Other work
 
