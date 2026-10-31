@@ -2,8 +2,8 @@
 <h3 align="center">Full-stack developer building SaaS for hospitality, travel, and local services from Kashmir, India</h3>
 
 <p align="center">
+  <a href="https://shuhulkultechnologies.in"><img src="https://img.shields.io/badge/ShuhulKul_Technologies-shuhulkultechnologies.in-6A1B9A?style=flat-square" alt="ShuhulKul Technologies"/></a>
   <a href="https://hotelbooks.in"><img src="https://img.shields.io/badge/HotelBooks-hotelbooks.in-0A66C2?style=flat-square" alt="HotelBooks"/></a>
-  <a href="https://1800hiring.com"><img src="https://img.shields.io/badge/1800Hiring-1800hiring.com-2E7D32?style=flat-square" alt="1800Hiring"/></a>
   <a href="https://repairmydevice.in"><img src="https://img.shields.io/badge/RepairMyDevice-repairmydevice.in-F57C00?style=flat-square" alt="RepairMyDevice"/></a>
 </p>
 
@@ -11,12 +11,19 @@
 
 ## 🚀 What I'm building
 
-- **[HotelBooks](https://hotelbooks.in)**: a multi-tenant hotel booking and operations platform (PMS) for independent hotels, built with **Shuhulkul Technologies**. It has reception and front-desk booking management, a guest booking portal for hotels in Kashmir, subdomains for each hotel, and channel-manager integration through **Channex**. More on the product: [pms.hotelbooks.in](https://pms.hotelbooks.in)
-- **[1800Hiring](https://1800hiring.com)**: a public-records retrieval service, plus its internal dashboard and Python automation.
-- **[RepairMyDevice](https://repairmydevice.in)**: device repair booking in Srinagar.
-- **Travel and local business tools**: CRMs, booking sites, and task and queue management apps for travel agencies, clinics, and shops.
+### 🏢 [ShuhulKul Technologies](https://shuhulkultechnologies.in)
 
-Most of these codebases are private. Open-source bits I've shared include [searchable-checkbox-dropdown](https://github.com/masteraamie/searchable-checkbox-dropdown) and [jquery-clockpicker-with-labels](https://github.com/masteraamie/jquery-clockpicker-with-labels).
+These are products and sites I build under **ShuhulKul Technologies Private Limited**, a software and website development company in Srinagar, Kashmir.
+
+- **[HotelBooks](https://hotelbooks.in)**: a multi-tenant hotel booking and operations platform (PMS) for independent hotels. It has reception and front-desk booking management, a guest booking portal for hotels in Kashmir, subdomains for each hotel, and channel-manager integration through **Channex**. It's built with Next.js 16, React 19, Prisma, and PostgreSQL. More on the product: [pms.hotelbooks.in](https://pms.hotelbooks.in)
+- **[ShuhulKul Technologies website](https://shuhulkultechnologies.in)**: the company site, rebuilt from PHP to Next.js App Router, TypeScript, and Framer Motion, with a blog and admin.
+- **[Master Techies](https://mastertechies.in)**: an AI-first engineering services brand and a unit of ShuhulKul Technologies, offering AI automation, web and mobile apps, cloud and DevOps, and API integrations.
+- **[RepairMyDevice](https://repairmydevice.in)**: a device repair booking service in Srinagar, operated by ShuhulKul Technologies.
+
+### 🧩 Other work
+
+- **Travel and local business tools**: CRMs, booking sites, and task and queue management apps for travel agencies, clinics, and shops.
+- Open-source bits I've shared include [searchable-checkbox-dropdown](https://github.com/masteraamie/searchable-checkbox-dropdown) and [jquery-clockpicker-with-labels](https://github.com/masteraamie/jquery-clockpicker-with-labels).
 
 ## 🛠️ Tech stack
 
@@ -62,6 +69,7 @@ Most of these codebases are private. Open-source bits I've shared include [searc
 
 ## 🔭 Currently
 
+- 🏢 Building products at ShuhulKul Technologies
 - 🏨 Shipping new HotelBooks releases and onboarding hotels onto its Channex channel-manager integration
 - 🤖 Running a team of AI agents for development, QA testing, SEO, social media, video editing, and research
 - ☁️ Deploying Next.js and Prisma apps on Render
@@ -71,8 +79,8 @@ Most of these codebases are private. Open-source bits I've shared include [searc
 
 [![GitHub](https://img.shields.io/badge/GitHub-masteraamie-181717?style=flat-square&logo=github)](https://github.com/masteraamie)
 [![HotelBooks](https://img.shields.io/badge/Web-hotelbooks.in-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://hotelbooks.in)
-[![1800Hiring](https://img.shields.io/badge/Web-1800hiring.com-2E7D32?style=flat-square&logo=googlechrome&logoColor=white)](https://1800hiring.com)
+[![ShuhulKul Technologies](https://img.shields.io/badge/Web-shuhulkultechnologies.in-6A1B9A?style=flat-square&logo=googlechrome&logoColor=white)](https://shuhulkultechnologies.in)
+[![Master Techies](https://img.shields.io/badge/Web-mastertechies.in-1565C0?style=flat-square&logo=googlechrome&logoColor=white)](https://mastertechies.in)
 [![RepairMyDevice](https://img.shields.io/badge/Web-repairmydevice.in-F57C00?style=flat-square&logo=googlechrome&logoColor=white)](https://repairmydevice.in)
 <!-- TODO: add LinkedIn badge, e.g. [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE) -->
 <!-- TODO: add a contact email badge. Pick which address to show publicly (your current profile README lists aamiramindar@gmail.com) -->
-<!-- TODO: add the Shuhulkul Technologies website link if you want it here -->
